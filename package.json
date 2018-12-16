@@ -1,0 +1,43 @@
+{
+  "name": "iobroker.bundesliga",
+  "version": "0.0.1",
+  "description": "Adapter for Bundesliga",
+  "author": {
+    "name": "Klaus Gerlicher",
+    "email": "klaus@klausgerlicher.de"
+  },
+  "contributors": [
+    {
+      "name": "Klaus Gerlicher",
+      "email": "klaus@klausgerlicher.de"
+    }
+  ],
+  "homepage": "https://github.com/kgerlich/iobroker.bundesliga",
+  "license": "MIT",
+  "keywords": [
+    "ioBroker",
+    "bundesliga",
+    "Smart Home",
+    "home automation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kgerlich/iobroker.bundesliga"
+  },
+  "dependencies": {
+    "pretty-ms": "^4.0.0"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "gulp": "^3.9.1",
+    "mocha": "^4.1.0"
+  },
+  "main": "main.js",
+  "scripts": {
+    "test": "node node_modules/mocha/bin/mocha --exit"
+  },
+  "bugs": {
+    "url": "https://github.com/kgerlich/iobroker.bundesliga/issues"
+  },
+  "readmeFilename": "README.md"
+}

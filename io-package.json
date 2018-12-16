@@ -1,0 +1,42 @@
+{
+    "common": {
+        "name": "bundesliga",
+        "version": "0.0.1",
+        "news": {
+            "0.0.1": {
+                "en": "initial adapter",
+                "de": "Initiale Version"
+            },
+        },
+		"title": "Bundesliga Adapter",
+        "titleLang": {
+            "en": "Bundesliga",
+            "de": "Bundesliga"
+        },
+        "desc": {
+            "en": "Adapter for German premier league",
+            "de": "Adapter für die Deutsche Bundesliga"
+        },
+        "authors": [
+            "Klaus Gerlicher <klaus@klausgerlicher.de>"
+        ],
+        "docs": {
+            "en": "docs/en/admin.md",
+            "de": "docs/de/admin.md"
+        },
+        "platform": "Javascript/Node.js",
+        "mode": "daemon",
+        "icon": "bundesliga.png",
+        "materialize": true,
+        "enabled": true,
+        "extIcon": "https://raw.githubusercontent.com/kgerlich/ioBroker.bundesliga/master/admin/surepetcareio.png",
+        "keywords": ["bundesliga", "fussball", "soccer"],
+        "readme": "https://github.com/kgerlich/ioBroker.bundesliga/blob/master/README.md",
+        "loglevel": "info",
+        "type": "hardware",
+        "license": "MIT",
+        "messagebox": false
+    },
+    "native": {
+    },
+}
