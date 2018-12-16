@@ -29,12 +29,12 @@
         "icon": "bundesliga.png",
         "materialize": true,
         "enabled": true,
-        "extIcon": "https://raw.githubusercontent.com/kgerlich/ioBroker.bundesliga/master/admin/surepetcareio.png",
+        "extIcon": "https://raw.githubusercontent.com/kgerlich/ioBroker.bundesliga/master/admin/bundesliga.png",
         "keywords": ["bundesliga", "fussball", "soccer"],
         "readme": "https://github.com/kgerlich/ioBroker.bundesliga/blob/master/README.md",
         "loglevel": "info",
         "type": "hardware",
         "license": "MIT",
         "messagebox": false
-    },
+    }
 }
