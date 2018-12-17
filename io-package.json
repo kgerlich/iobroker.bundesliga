@@ -36,5 +36,8 @@
         "type": "hardware",
         "license": "MIT",
         "messagebox": false
+    },
+    "native": {
+        "test" : "Hello"
     }
 }
